@@ -33,7 +33,7 @@ BashLlama/
 │   ├── continual_training_A.ipynb
 │   ├── continual_training_B.ipynb
 │   ├── instruction_tuning.ipynb      # data ready, training not executed
-│   ├── task_specific_tuning.ipynb                  
+│   ├── task_specific_tuning.ipynb      # versions for baseline and experiments A/B            
 ├── DATA/                          # data scraping and preprocessing
 │   ├─scripts/
 ```
